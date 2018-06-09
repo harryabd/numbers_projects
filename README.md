@@ -1,4 +1,6 @@
 # Numbers projects include:
-Print pi to a given number of digits [C++](../master/Pi_C++.cpp)
+Print [pi](../master/Pi_C++.cpp) to a given number of digits.
 
-Print e to a given number of digits [C++](../master/e_C++.cpp)
+Print [e](../master/e_C++.cpp) to a given number of digits.
+
+Print the [fibonacci](../master/fibonacci.cpp) sequence or nth term of the sequence. 
